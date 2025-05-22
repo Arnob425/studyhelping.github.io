@@ -12,12 +12,13 @@
       color: white;
       background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80') no-repeat center center fixed;
       background-size: cover;
-      text-align: center;
     }
 
     .container {
       padding: 100px 20px;
       background-color: rgba(0, 0, 0, 0.5);
+      text-align: center;
+      min-height: 100vh;
     }
 
     h1 {
@@ -42,6 +43,30 @@
       color: orange;
       font-weight: bold;
     }
+
+    .social-icons {
+      position: fixed;
+      bottom: 10px;
+      left: 20px;
+    }
+
+    .social-icons a {
+      margin-right: 10px;
+    }
+
+    .scroll-footer {
+      text-align: center;
+      padding: 30px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: white;
+      font-size: 1.2em;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      vertical-align: middle;
+    }
   </style>
 </head>
 <body>
@@ -51,6 +76,14 @@
     <h2>Welcome</h2>
     <p>You can also read all books and guides from here: <a href="https://www.abswer.com/2025/01/class-9-10-all-new-guidebooks-2025-pdf.html" target="_blank">https://www.abswer.com</a></p>
   </div>
+
   <div class="footer">Made by ARNOB</div>
+  <div class="social-icons">
+    <a href="https://instagram.com" target="_blank"><img class="icon" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram"></a>
+    <a href="https://facebook.com" target="_blank"><img class="icon" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" alt="Facebook"></a>
+    <a href="https://youtube.com" target="_blank"><img class="icon" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube"></a>
+  </div>
+
+  <div class="scroll-footer">Chattogram Cantonment Public College</div>
 </body>
 </html>
