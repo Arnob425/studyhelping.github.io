@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+WELCOME
 <html lang="en">
 <head>
   <meta charset="UTF-8">
