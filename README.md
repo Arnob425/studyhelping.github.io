@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+WELLCOME EVERYONE TO OUR GROUP PROJECT
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,7 +11,7 @@
       padding: 0;
       font-family: Arial, sans-serif;
       color: white;
-      background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80') no-repeat center center fixed;
+      background: url('https://images.unsplash.com/photo-1660404965842-c6222a56accf?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
       background-size: cover;
     }
 
